@@ -1,2 +1,2 @@
-# react-saber-que-id-clickeamos-v2-funcion-arrow
+# cambiar-estado-al-clickear-true-false-react
 Created with CodeSandbox
